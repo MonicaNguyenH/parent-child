@@ -1,5 +1,5 @@
 # Class 12
 
 ## Description 
-- passing value from parent to child and chld to parent
+- parent to child and child to parent
 
